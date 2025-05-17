@@ -1,0 +1,10 @@
+lista de librerias para el codigo
+
+
+import tkinter as tk
+import webview
+from PIL import Image,ImageTk
+import folium
+import networkx as nx
+import osmnx as ox
+import webbrowser

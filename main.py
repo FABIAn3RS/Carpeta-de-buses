@@ -5,8 +5,8 @@ from PIL import Image,ImageTk
 
 # Función para abrir un mapa específico
 def abrir_mapa(numero):
-    ruta = f"file:///C:/Users/Virus/Downloads/pyhom/mapar{numero}.html"
-    webview.create_window(f"Mapa {numero}", ruta, width=800, height=600, x=400, y=400)
+    ruta = f"mapar{numero}.html"
+    webview.create_window(f"Mapa {numero}", ruta, width=800, height=600)
     webview.start()  # Esto bloqueará la interfaz hasta que se cierre la ventana del mapa
 
 # Crear ventana principal
@@ -21,24 +21,25 @@ lineas = [
     'LINEA15', 'LINEA16', 'LINEA17'
 ]
 
-
 imagen = Image.open("Mapa de Manta foto.jpg") # Puede ser .png, .jpg, etc.
-imagen = imagen.resize((300, 200))
+imagen = imagen.resize((1300, 900))
 imagen_tk = ImageTk.PhotoImage(imagen)
+
+
 
 # Crear etiqueta con la imagen
 etiqueta = tk.Label(ventana, image=imagen_tk)
+etiqueta.place(x=366,y=0,anchor='nw')
 
 
 # Crear botones para admin
 boton2 = tk.Button(ventana, text="admin", padx=50, pady=14,)
-boton2.pack(pady=0,padx=0)
+boton2.pack(side=tk.RIGHT,pady=0,padx=0)
 
 
 
 
 
-# Crear botones para cada línea
 for i, texto in enumerate(lineas, start=1):
     boton = tk.Button(ventana, text=texto, padx=160, pady=14,command=lambda i=i: abrir_mapa(i))
     boton.pack(anchor="w")
