@@ -8,3 +8,8 @@ import folium
 import networkx as nx
 import osmnx as ox
 import webbrowser
+
+para Recomendacion_bus:
+pip install flask
+pip install flask-cors
+pip install requests ------ Si no funciona probar este: (python -m pip install requests)     
