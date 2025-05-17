@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ubicación en tiempo real</title>
+</head>
+<body>
+  <h3>Recomendación de Buses</h3>
+  <p id="info">Analizando zona...</p>
+
+  <script>
+    function enviarCoordenadas(lat, lon) {
+  fetch("http://localhost:5000/coordenadas", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ lat: lat, lon: lon })
+  })
+    .then(res => res.json())
+    .then(data => {
+
+      document.getElementById("info").textContent = "✅ Proceso completado. Por favor, vuelva a la aplicación.";
+  
+    })
+    .catch(err => {
+      document.getElementById("info").textContent = "Error al enviar coordenadas.";
+      console.error(err);
+    });
+}
+
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+        enviarCoordenadas(lat, lon);
+      },
+      (err) => {
+        document.getElementById("info").textContent = "No se pudo obtener ubicación.";
+      },
+      { enableHighAccuracy: true }
+    );
+  </script>
+</body>
+</html>

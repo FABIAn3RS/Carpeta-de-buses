@@ -1,0 +1,33 @@
+1:Terminal Terrestre, Vía Manta-Rocafuerte, Costa Azul, la Pradera, 15 de Abril, Barrio Santa Ana, Vía Circunvalación, Redondel de la Av. La Cultura, Colegio 5 de Junio, Nuevo Tarqui, Vía Puerto Aeropuerto, Calle 15, Mercado Central, Av. 24, Flavio Reyes, ULEAM, Coliseo Tohallí, San Mateo
+
+2:Colisa, Redondel del Imperio, Villamarina, Redondel de la Barca, Gasolinera Petrovelca, Terminal Terrestre, Redondel del Paraíso, Calle 120, Feria de Los Esteros, Mercado de Los Esteros, Av. 105, Espigón-Megaparque, Redondel de Portuaria, Los Bloques, Calle 15, Calle 11, Mercado Central, Colegio Manta, Santa Martha, ULEAM, Redondel Los Bomberos, Manta 2000, Terminal de buses, Fetum, Coliseo Tohallí
+
+3:Urbirríos 2, Sí Vivienda, Barrio Santa Ana, Colegio Paquisha, Interbarrial, Calle 319, Iglesia San Patricio, Cuerpo de Bomberos Eloy Alfaro, Santa Clara, Colegio Emilio Bowen, Calle 311, Picapiedra, Barrio La Paz, Jocay J1, Miraflores, Barrio 4 de Noviembre, Colegio 5 de Junio, Nuevo Tarqui, Municipio, Calle 11, Mercado Central, Calle 15, Colegio Técnico, Clínica del Sol, ULEAM, Manta 2000, Coliseo Tohallí
+
+4:Arroyo Azul, La Pradera, Av. Las Acacias, Altagracia, Los Algarrobos, Calle 110, Av. María Auxiliadora, Redondel el Paraíso, Av. 108, Calle 113, Av. Malecón, Av. 9, Calle 1 Nuevo Tarqui, Patronato Municipal, Av. la Cultura, Av. 24, Calle 12, Redondel ULEAM, Manta 2000, Complejo Deportivo Tohallí
+
+5:Complejo Deportivo Tohallí, Manta 2000, ULEAM, Hospital Rodríguez Zambrano, Colegio Técnico, Calle 14, Av. Flavio Reyes, SRI, Mall del Pacífico, Playa El Murciélago, Av. Malecón, Nuevo Tarqui, Av. 105, Tarqui, Mercado Los Esteros, Calle 114, La Victoria, Paseo Shopping, Picapiedra, Calle 309, Registro Civil, Geriátrico, Urbirríos, Palo Santo
+
+6:Complejo Deportivo Tohallí, Manta 2000, Hospital Rodriguez Zambrano, Santa Martha, Mercado Central, Av. 4, Banco del Austro, Nuevo Tarqui, Tarqui, Av. 4 de Noviembre, Paseo Shopping, Teojama, Aurora, Lorena, 15 de Abril, Nuevo Tarqui, Malecón, Playa El Murciélago, Mall del Pacífico, Flavio Reyes
+
+7:Villamarina, Terminal Terrestre, Agencia de Tránsito, La Florita, Mercado Los Esteros, Inepaca, Av. La Cultura, Av. 24 de Mayo, Av. 4 de Noviembre, Paseo Shopping, Parroquia Eloy Alfaro, Vía Interbarrial, Iglesia San Patricio, Nueva Esperanza, Cielito Lindo, Los Artesanos
+
+8:Coliseo Tohallí, Manta 2000, ULEAM, Hospital Rodríguez Zambrano, Santa Martha, Av. 24, Calle 14, Oscus, Flavio Reyes, Comisariato JR, SRI, Mall del Pacífico, Playa El Murciélago, Malecón, Municipio, Banco del Austro, Nuevo Tarqui, Tarqui, Av. 4 de Noviembre, Paseo Shopping, Servientrega, La Aurora, Marbella, La Pradera, Cosace, La Fabril, Leonidas Proaño
+
+9:Coliseo Tohallí, Manta 2000, ULEAM, Almacenes Boyacá, Flavio Reyes, Mall del Pacífico, Playa El Murciélago, Malecón, Municipio, Nuevo Tarqui, Tarqui, Mercado Los Esteros, Calle 114, Esquina de Ales - La 110, Av. 4 de Noviembre, Paseo Shopping, Altamira, Altagracia, El Palmar, Divino Niño, Costa Azul, Los Espinos, Prado, Las Marías 2, Costa Azul
+
+10:Coliseo Tohallí, Manta 2000, ULEAM, Hospital Rodríguez Zambrano, Colegio Técnico, Manicentro, Mall del Pacífico, Malecón, Nuevo Tarqui, Av. 24 de Mayo, Av. 4 de Noviembre, Jocay, Picapiedra, Subcentro Eloy Alfaro, Iglesia San Patricio, Barrio Santa Ana, Cielito Lindo, Ceibo Renacer
+
+11:Los Gavilanes, Manta 2000, La Época, ULEAM, Hospital Rodríguez Zambrano, Calle 16, Colegio 4 de Noviembre, Colegio Técnico, Calle 14, Flavio Reyes, SRI, Mall del Pacífico, Playa El Murciélago, Malecón, Municipio, Patronato Municipal, Nuevo Tarqui, Tarqui, Av. 4 de Noviembre, Colegio Pedro Balda, Paseo Shopping, Picapiedra, Calle 309, Barrio María Auxiliadora 1 y 2, Calle 307,El Pollero, Escuela Fe y Alegría 3, Geriátrico, Registro Civil, Urbirríos, Complejo Sandino, Nuevo Manta, La Revancha
+
+12:Las Cumbres, Calle 291, Calle 1 de Enero, Jocay, Av. 114, Av. 109, Calle 101, Av. Malecón, Redondel Oro Verde, Av. Flavio Reyes, Vía Barbasquillo, Redondel La Quadra, Cdla. Universitaria, Redondel Los Bomberos, Manta 2000, Los Gavilanes
+
+13:Ciudadela Deportiva, Manta 2000, ULEAM, Calle 12, Calle 16, Av. 30, Almacenes Boyacá, Av. Flavio Reyes, Malecón, Av. 24 de Mayo, Nuevo Tarqui, Av. 105, Mercado Los Esteros, Av. 103, El Paraíso, El Palmar, Terminal Terrestre, FAE
+
+14:Barrio Monterrey, Parque los Ángeles, La Fabril, Colegio Rubén Darío, Cosace, Av. Interbarrial, Pradera 1, Vía Montecristi, Solca, Paseo Shopping, Redondel Inepaca, Av. Malecón, Parque de la Madre, Autoridad Portuaria, Redondel del hotel Oro Verde, Av. Flavio Reyes, Distribuidor Universitario, ULEAM, Vía San Mateo, Manta 2000, Ciudadela Deportiva
+
+15:San Juan, Camal municipal, Cementerio Jardines del Edén, Barrio 15 de septiembre, Colegio 5 de Junio, Patronato Municipal, Nuevo Tarqui, Jocay, El Porvenir, Colegio Tarqui, Circunvalación, Los Geranios, Barrio 20 de Mayo
+
+16:Coliseo Tohallí, Manta 2000, ULEAM, Almacenes Boyacá, Flavio Reyes, Mall del Pacifico, Playa El Murciélago, Malecón, Plaza Cívica, Municipio, Nuevo Tarqui, Interbarrial, Ciudadela 15 de Abril, Ciudadela Montalván
+
+17: Terminal Terrestre, Vía Puerto Aeropuerto, Malecón, Mall del Pacifico, Flavio Reyes, ULEAM, Manta 2000, Coliseo Tohallí
